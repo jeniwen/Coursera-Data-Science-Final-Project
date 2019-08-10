@@ -1,0 +1,40 @@
+"Geographic code","Geographic name","Geographic type","Province or territory","Incompletely enumerated Indian reserves and Indian settlements, 2016","Population, 2016","Population, 2011","2011 adjusted population flag","Population, % change","Total private dwellings, 2016","Private dwellings occupied by usual residents, 2016","Land area in square kilometres, 2016","Population density per square kilometre, 2016","National population rank, 2016","Provincial/territorial population rank, 2016"
+"01","Canada",,,T,35151728,33476688,F,5.0,15412443,14072079,8965588.85,3.9,,
+"535","Toronto",Census metropolitan area (CMA),"Ontario",F,5928040,5583064,F,6.2,2235145,2135909,5905.84,1003.8,1,1
+"462","Montréal",Census metropolitan area (CMA),"Quebec",T,4098927,3934078,T,4.2,1823281,1727310,4604.26,890.2,2,1
+"933","Vancouver",Census metropolitan area (CMA),"British Columbia",F,2463431,2313328,F,6.5,1027613,960894,2882.68,854.6,3,1
+"825","Calgary",Census metropolitan area (CMA),"Alberta",F,1392609,1214839,F,14.6,544870,519693,5110.21,272.5,4,1
+"505","Ottawa - Gatineau","Census metropolitan area (CMA)","Ontario/Quebec",F,1323783,1254919,T,5.5,571146,535499,6767.41,195.6,5,
+"24505","Ottawa - Gatineau (Quebec part)","Census metropolitan area (CMA) – provincial part","Quebec",F,332057,318011,T,4.4,152958,140102,3128.10,106.2,,3
+"35505","Ottawa - Gatineau (Ontario part)","Census metropolitan area (CMA) – provincial part","Ontario",F,991726,936908,T,5.9,418188,395397,3639.31,272.5,,2
+"835","Edmonton",Census metropolitan area (CMA),"Alberta",F,1321426,1159869,F,13.9,537634,502143,9438.86,140.0,6,2
+"421","Québec",Census metropolitan area (CMA),"Quebec",F,800296,767310,T,4.3,382308,361891,3408.70,234.8,7,2
+"602","Winnipeg",Census metropolitan area (CMA),"Manitoba",F,778489,730018,F,6.6,321484,306550,5306.79,146.7,8,1
+"537","Hamilton",Census metropolitan area (CMA),"Ontario",F,747545,721053,F,3.7,306034,293345,1371.89,544.9,9,3
+"541","Kitchener - Cambridge - Waterloo",Census metropolitan area (CMA),"Ontario",F,523894,496383,T,5.5,210896,200495,1091.16,480.1,10,4
+"555","London",Census metropolitan area (CMA),"Ontario",F,494069,474786,F,4.1,220452,206448,2662.40,185.6,11,5
+"539","St. Catharines - Niagara",Census metropolitan area (CMA),"Ontario",F,406074,392184,F,3.5,180606,168485,1397.49,290.6,12,6
+"205","Halifax",Census metropolitan area (CMA),"Nova Scotia",F,403390,390328,F,3.3,187478,173459,5496.31,73.4,13,1
+"532","Oshawa",Census metropolitan area (CMA),"Ontario",F,379848,356177,F,6.6,142462,138962,903.69,420.3,14,7
+"935","Victoria",Census metropolitan area (CMA),"British Columbia",T,367770,344580,T,6.7,172559,162716,696.15,528.3,15,2
+"559","Windsor",Census metropolitan area (CMA),"Ontario",F,329144,319246,F,3.1,140408,132912,1022.30,322.0,16,8
+"725","Saskatoon",Census metropolitan area (CMA),"Saskatchewan",F,295095,262215,T,12.5,124766,115283,5890.71,50.1,17,1
+"705","Regina",Census metropolitan area (CMA),"Saskatchewan",F,236481,211519,T,11.8,101719,94955,4324.39,54.7,18,2
+"433","Sherbrooke",Census metropolitan area (CMA),"Quebec",F,212105,202261,T,4.9,106082,95577,1459.58,145.3,19,4
+"001","St. John's",Census metropolitan area (CMA),"Newfoundland and Labrador",F,205955,196954,T,4.6,92353,85015,804.79,255.9,20,1
+"568","Barrie",Census metropolitan area (CMA),"Ontario",F,197059,187013,F,5.4,76336,72534,898.02,219.4,21,9
+"915","Kelowna",Census metropolitan area (CMA),"British Columbia",F,194882,179839,F,8.4,88374,81383,2904.86,67.1,22,3
+"932","Abbotsford - Mission",Census metropolitan area (CMA),"British Columbia",F,180518,170191,F,6.1,65967,62631,607.13,297.3,23,4
+"580","Greater Sudbury",Census metropolitan area (CMA),"Ontario",F,164689,163067,T,1.0,76619,70445,3924.48,42.0,24,10
+"521","Kingston",Census metropolitan area (CMA),"Ontario",F,161175,159561,F,1.0,77173,67915,1938.81,83.1,25,11
+
+Note:
+"Incompletely enumerated Indian reserves and Indian settlements, 2016","T = excludes census data for one or more incompletely enumerated Indian reserves or Indian settlements."
+"Incompletely enumerated Indian reserves and Indian settlements, 2011","T = excludes census data for one or more incompletely enumerated Indian reserves or Indian settlements."
+"For further information, refer to: http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/About.cfm."
+
+"Source: Statistics Canada, 2016 Census of Population."
+"How to cite: Statistics Canada. 2017. Population and dwelling counts, for Canada, provinces and territories, census metropolitan areas and census agglomerations, 2016 and 2011 censuses (table). Population and Dwelling Count Highlight Tables. 2016 Census."
+"Statistics Canada Catalogue no. 98-402-X2016001. Ottawa. Released February 8, 2017."
+"http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Tables/File.cfm?T=201&SR=1&RPP=25&PR=0&CMA=0&CSD=0&S=3&O=D&Lang=Eng&OFT=CSV (accessed August 10, 2019)"
+

@@ -1,0 +1,86 @@
+"Geographic code","Geographic name","Geographic type","Province or territory","Global non-response rate","Data quality flag","Household type","Number of households, 2006","Number of households, 2016","Median household total income (2015 constant dollars), 2005","Median household total income (2015 constant dollars), 2015","Median household total income (2015 constant dollars), % change","Median household after-tax income (2015 constant dollars), 2005","Median household after-tax income (2015 constant dollars), 2015","Median household after-tax income (2015 constant dollars), % change"
+"01","Canada",,,4.0,"20000","Total – Household type including census family structure",12437470,14072080,63457,70336,10.8,55118,61348,11.3
+"725","Saskatoon","CMA","Saskatchewan",4.5,"00000","Total – Household type including census family structure",95735,115280,60586,82999,37.0,52624,71621,36.1
+"705","Regina","CMA","Saskatchewan",3.9,"00000","Total – Household type including census family structure",80640,94955,65897,84447,28.1,56444,72372,28.2
+"001","St. John's","CMA","Newfoundland and Labrador",3.5,"00000","Total – Household type including census family structure",70660,85015,62554,79750,27.5,53516,68121,27.3
+"835","Edmonton","CMA","Alberta",4.4,"00000","Total – Household type including census family structure",405275,502145,74615,94447,26.6,64418,80578,25.1
+"825","Calgary","CMA","Alberta",3.8,"00000","Total – Household type including census family structure",415605,519695,81138,99583,22.7,69442,84773,22.1
+"810","Lethbridge","CMA","Alberta",4.8,"00000","Total – Household type including census family structure",37300,45695,62610,75452,20.5,55568,66779,20.2
+"915","Kelowna","CMA","British Columbia",4.6,"00000","Total – Household type including census family structure",67000,81380,59517,71127,19.5,53119,62366,17.4
+"602","Winnipeg","CMA","Manitoba",3.3,"00000","Total – Household type including census family structure",281760,306550,60719,70795,16.6,52123,60846,16.7
+"932","Abbotsford - Mission","CMA","British Columbia",4.3,"00000","Total – Household type including census family structure",55950,62630,64521,73598,14.1,57260,64890,13.3
+"580","Greater Sudbury","CMA","Ontario",4.1,"00000","Total – Household type including census family structure",66080,70445,64813,71687,10.6,56087,62774,11.9
+"421","Québec","CMA","Quebec",4.0,"00000","Total – Household type including census family structure",318725,361890,58815,65359,11.1,50347,55890,11.0
+"310","Saint John","CMA","New Brunswick",3.6,"00000","Total – Household type including census family structure",49565,52875,58038,63737,9.8,50341,55847,10.9
+"935","Victoria","CMA","British Columbia",5.0,"20000","Total – Household type including census family structure",145430,162715,63057,70283,11.5,55285,61119,10.6
+"933","Vancouver","CMA","British Columbia",4.4,"00000","Total – Household type including census family structure",817225,960890,65342,72662,11.2,57414,63365,10.4
+"595","Thunder Bay","CMA","Ontario",4.4,"00000","Total – Household type including census family structure",51430,52545,63521,68476,7.8,55100,60536,9.9
+"521","Kingston","CMA","Ontario",4.6,"00000","Total – Household type including census family structure",62045,67915,65710,71195,8.3,57129,62652,9.7
+"462","Montréal","CMA","Quebec",3.3,"20000","Total – Household type including census family structure",1567820,1727310,56771,61790,8.8,49068,53738,9.5
+"205","Halifax","CMA","Nova Scotia",3.7,"00000","Total – Household type including census family structure",155125,173460,64004,69522,8.6,54301,59240,9.1
+"408","Saguenay","CMA","Quebec",3.8,"00000","Total – Household type including census family structure",66610,72475,54783,59243,8.1,47948,51625,7.7
+"537","Hamilton","CMA","Ontario",3.5,"00000","Total – Household type including census family structure",266460,293345,71660,75464,5.3,61441,66100,7.6
+"442","Trois-Rivières","CMA","Quebec",4.3,"00000","Total – Household type including census family structure",65195,72505,48085,51850,7.8,42805,45927,7.3
+"305","Moncton","CMA","New Brunswick",3.9,"00000","Total – Household type including census family structure",51910,61770,59549,62871,5.6,51647,55165,6.8
+"433","Sherbrooke","CMA","Quebec",4.2,"00000","Total – Household type including census family structure",84620,95575,50405,53747,6.6,44527,47558,6.8
+"522","Belleville","CMA","Ontario",3.8,"00000","Total – Household type including census family structure",40420,43005,61688,63902,3.6,53452,57010,6.7
+"529","Peterborough","CMA","Ontario",4.5,"00000","Total – Household type including census family structure",46680,50530,62243,64777,4.1,54633,57876,5.9
+"505","Ottawa - Gatineau","CMA","Ontario",3.5,"00000","Total – Household type including census family structure",457195,535495,78645,82053,4.3,66046,69904,5.8
+"24505","Ottawa - Gatineau (Quebec part)",,,3.3,"00000","Total – Household type including census family structure",118635,140105,68571,70857,3.3,57804,59790,3.4
+"35505","Ottawa - Gatineau (Ontario part)",,,3.5,"00000","Total – Household type including census family structure",338560,395400,82800,86451,4.4,69407,74131,6.8
+"568","Barrie","CMA","Ontario",3.4,"00000","Total – Household type including census family structure",63860,72535,78153,80788,3.4,66585,70409,5.7
+"543","Brantford","CMA","Ontario",3.9,"20000","Total – Household type including census family structure",47850,52530,67026,68756,2.6,57952,61117,5.5
+"550","Guelph","CMA","Ontario",3.5,"00000","Total – Household type including census family structure",51110,59280,79225,81223,2.5,67015,70503,5.2
+"535","Toronto","CMA","Ontario",3.1,"00000","Total – Household type including census family structure",1801255,2135910,75862,78373,3.3,65439,68632,4.9
+"541","Kitchener - Cambridge - Waterloo","CMA","Ontario",3.6,"00000","Total – Household type including census family structure",175285,200495,76137,77229,1.4,65083,67654,4.0
+"532","Oshawa","CMA","Ontario",3.2,"00000","Total – Household type including census family structure",119015,138965,85597,85697,0.1,71730,74061,3.2
+"539","St. Catharines - Niagara","CMA","Ontario",4.1,"00000","Total – Household type including census family structure",156470,168485,62756,63001,0.4,54972,56572,2.9
+"555","London","CMA","Ontario",3.5,"00000","Total – Household type including census family structure",184950,206445,66132,64743,-2.1,57165,57576,0.7
+"559","Windsor","CMA","Ontario",3.5,"00000","Total – Household type including census family structure",125840,132910,70475,65983,-6.4,60508,58679,-3.0
+
+Note(s):
+
+"'Other census-family households' include one-census-family households in which additional persons are present and multiple-census-family households."
+"'Non-census-family households' include one-person households."
+"For more information, refer to the Census Dictionary: Household type; Census family structure."
+
+"Data quality flag:"
+
+"Digit Description"
+"First (0XXXX): Incomplete enumeration flag"
+"Second (X0XXX): Short-form data quality flag"
+"Third (XX0XX): Short-form income data quality flag"
+"Fourth (XXX0X): Not applicable"
+"Fifth (XXXX0): Not applicable"
+
+"Flag description"
+"Incomplete enumeration flag"
+"0 = Default. Not applicable."
+"1 = Incompletely enumerated Indian reserve or Indian settlement (suppressed)."
+"2 = Excludes census data for one or more incompletely enumerated Indian reserves or Indian settlements."
+
+"Short-form data quality flag"
+"0 = Default. Data quality index showing a short-form global non-response rate lower than 10%."
+"1 = Data quality index showing a short-form global non-response rate higher than or equal to 10%, but lower than 20%."
+"2 = Data quality index showing a short-form global non-response rate higher than or equal to 20%, but lower than 30%."
+"3 = Data quality index showing a short-form global non-response rate higher than or equal to 30%, but lower than 40%."
+"4 = Data quality index showing a short-form global non-response rate higher than or equal to 40%, but lower than 50%."
+"5 = Data quality index showing a short-form global non-response rate higher than or equal to 50% (suppressed)."
+"9 = Short-form data suppressed to meet the confidentiality requirements of the Statistics Act."
+
+"Short-form income data quality flag"
+"0 = Default. Data quality index showing a short-form income non-response rate lower than 10%."
+"1 = Data quality index showing a short-form income non-response rate higher than or equal to 10%, but lower than 20%."
+"2 = Data quality index showing a short-form income non-response rate higher than or equal to 20%, but lower than 30%."
+"3 = Data quality index showing a short-form income non-response rate higher than or equal to 30%."
+"9 = Short-form income data suppressed to meet the confidentiality requirements of the Statistics Act."
+
+"Not applicable"
+"0 = Default."
+
+"Not applicable"
+"0 = Default."
+
+"Source: Statistics Canada, 2016 Census of Population."
+"Statistics Canada Catalogue no. 98-402-X2016006. Ottawa. Released September 13, 2017."
+
